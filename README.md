@@ -22,6 +22,6 @@
   </style>
 </head>
 <body>
-  <h1>Kayralrics</h1>
+  <h1>kayralrics</h1>
 </body>
 </html>
